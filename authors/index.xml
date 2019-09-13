@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Pratik Vaishnavi</title>
+    <link>https://pratik18v.github.io/authors/</link>
+      <atom:link href="https://pratik18v.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pratik18v.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://pratik18v.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Alfaz Ahmed</title>
+      <link>https://pratik18v.github.io/authors/alfaz-ahmed/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/alfaz-ahmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aparna Mohanty</title>
+      <link>https://pratik18v.github.io/authors/aparna-mohanty/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/aparna-mohanty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arpita Das</title>
+      <link>https://pratik18v.github.io/authors/arpita-das/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/arpita-das/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pratik Vaishnavi</title>
+      <link>https://pratik18v.github.io/authors/pratik-vaishnavi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/pratik-vaishnavi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajiv Ranjan Sahay</title>
+      <link>https://pratik18v.github.io/authors/rajiv-ranjan-sahay/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/rajiv-ranjan-sahay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trishita Goswami</title>
+      <link>https://pratik18v.github.io/authors/trishita-goswami/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/trishita-goswami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anubhab Majumdar</title>
+      <link>https://pratik18v.github.io/authors/anubhab-majumdar/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/anubhab-majumdar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerana Jana</title>
+      <link>https://pratik18v.github.io/authors/prerana-jana/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/prerana-jana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajiv R. Sahay</title>
+      <link>https://pratik18v.github.io/authors/rajiv-r.-sahay/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/rajiv-r.-sahay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pratik18v.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a second year Computer Science PhD student at Stony Brook University, advised by &lt;a href=&#34;https://amir.rahmati.com/&#34; target=&#34;_blank&#34;&gt;Amir Rahmati&lt;/a&gt;. My research falls under the umbrella of Adversarial Machine Learning. More specifically, I investigate techniques that can improve robustness of visual recognition models against adversarial attacks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

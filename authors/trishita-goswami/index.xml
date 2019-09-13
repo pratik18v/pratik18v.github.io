@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trishita Goswami | Pratik Vaishnavi</title>
+    <link>https://pratik18v.github.io/authors/trishita-goswami/</link>
+      <atom:link href="https://pratik18v.github.io/authors/trishita-goswami/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trishita Goswami</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pratik18v.github.io/img/icon-192.png</url>
+      <title>Trishita Goswami</title>
+      <link>https://pratik18v.github.io/authors/trishita-goswami/</link>
+    </image>
+    
+    <item>
+      <title>Robust pose recognition using deep learning</title>
+      <link>https://pratik18v.github.io/publication/mohanty-robust-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/publication/mohanty-robust-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nrityabodha: towards understanding indian classical dance using a deep learning approach</title>
+      <link>https://pratik18v.github.io/publication/mohanty-nrityabodha-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/publication/mohanty-nrityabodha-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
