@@ -5,12 +5,44 @@
     <link>https://pratik18v.github.io/authors/</link>
       <atom:link href="https://pratik18v.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pratik18v.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://pratik18v.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Amir Rahmati</title>
+      <link>https://pratik18v.github.io/authors/amir-rahmati/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/amir-rahmati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atul Prakash</title>
+      <link>https://pratik18v.github.io/authors/atul-prakash/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/atul-prakash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Eykholt</title>
+      <link>https://pratik18v.github.io/authors/kevin-eykholt/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/kevin-eykholt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pratik Vaishnavi</title>
+      <link>https://pratik18v.github.io/authors/pratik-vaishnavi/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/authors/pratik-vaishnavi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alfaz Ahmed</title>
@@ -33,14 +65,6 @@
       <link>https://pratik18v.github.io/authors/arpita-das/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://pratik18v.github.io/authors/arpita-das/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pratik Vaishnavi</title>
-      <link>https://pratik18v.github.io/authors/pratik-vaishnavi/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://pratik18v.github.io/authors/pratik-vaishnavi/</guid>
       <description></description>
     </item>
     
