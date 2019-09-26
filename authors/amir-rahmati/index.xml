@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Robust Classification using Robust Feature Augmentation</title>
+      <link>https://pratik18v.github.io/publication/eykholt-2019-robust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/publication/eykholt-2019-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferable Adversarial Robustness using Adversarially Trained Autoencoders</title>
+      <link>https://pratik18v.github.io/publication/vaishnavi-2019-transferable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/publication/vaishnavi-2019-transferable/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
