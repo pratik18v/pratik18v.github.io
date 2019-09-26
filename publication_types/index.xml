@@ -5,20 +5,12 @@
     <link>https://pratik18v.github.io/publication_types/</link>
       <atom:link href="https://pratik18v.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pratik18v.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
       <link>https://pratik18v.github.io/publication_types/</link>
     </image>
-    
-    <item>
-      <title>2</title>
-      <link>https://pratik18v.github.io/publication_types/2/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://pratik18v.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>0</title>
@@ -33,6 +25,14 @@
       <link>https://pratik18v.github.io/publication_types/1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://pratik18v.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://pratik18v.github.io/publication_types/2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pratik18v.github.io/publication_types/2/</guid>
       <description></description>
     </item>
     

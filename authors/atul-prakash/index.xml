@@ -5,20 +5,12 @@
     <link>https://pratik18v.github.io/authors/atul-prakash/</link>
       <atom:link href="https://pratik18v.github.io/authors/atul-prakash/index.xml" rel="self" type="application/rss+xml" />
     <description>Atul Prakash</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pratik18v.github.io/img/icon-192.png</url>
       <title>Atul Prakash</title>
       <link>https://pratik18v.github.io/authors/atul-prakash/</link>
     </image>
-    
-    <item>
-      <title>Transferable Adversarial Robustness using Adversarially Trained Autoencoders</title>
-      <link>https://pratik18v.github.io/publication/vaishnavi-transferable-2019/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://pratik18v.github.io/publication/vaishnavi-transferable-2019/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Robust Classification using Robust Feature Augmentation</title>
