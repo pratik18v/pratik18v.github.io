@@ -275,17 +275,17 @@ footer {
 }
 
 .clickable {
-  background-color: white;
+  background-color:white;
   border-width:2px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 5px;
-  color: black;
-  padding: 0px 1px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12px;
-  margin: 0px 2px;
-  cursor: pointer;
+  border-style:solid;
+  border-color:black;
+  border-radius:5px;
+  color:black;
+  padding:0px 1px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:12px;
+  margin:0px 2px;
+  cursor:pointer;
 }
