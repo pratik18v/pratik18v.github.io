@@ -13,7 +13,7 @@ p, li {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 15px;
+  margin:0 0 1em;
 }
 
 p, ul, ol, table, pre, dl {
@@ -199,6 +199,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+/*for small screens*/
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -266,6 +267,7 @@ footer {
     width:33%;
   }
 }
+/*-------*/
 
 @media print {
   body {
@@ -275,6 +277,7 @@ footer {
   }
 }
 
+/*Added by me*/
 .clickable {
   background-color:white;
   border-width:2px;
@@ -294,12 +297,12 @@ footer {
 }
 
 .clickable:hover {
-  background:silver;
+  background:lightgray;
   color:black;
 }
 
 .contact {
-  background-color:whitesmoke;
+  background-color:ghostwhite;
   border-radius:5px;
   color:black;
   text-align:left;
@@ -317,15 +320,18 @@ footer {
   color:black;
 }
 
-
 /* The navigation bar */
+.navbar_anchor {
+  position:sticky; /* Set the navbar to fixed position */
+  top:0;
+  width:100%; /* Full width */
+  z-index:1000;
+  background-color:white;
+}
+
 .navbar {
   overflow:hidden;
-  background-color:whitesmoke;
-  position:fixed; /* Set the navbar to fixed position */
-  top:0; /* Position the navbar at the top of the page */
-  width:625px; /* Full width */
-  z-index:1000;
+  background-color:ghostwhite;
 }
 
 /* Links inside the navbar */
@@ -334,10 +340,10 @@ footer {
   display:block;
   color:black;
   text-align:center;
-  padding-top:14px;
-  padding-bottom:14px;
-  padding-right:16px;
-  padding-left:16px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-right:10px;
+  padding-left:10px;
   text-decoration:none;
 }
 
@@ -347,16 +353,26 @@ footer {
   color:black;
 }
 
-.main {
-  margin: 50px
-}
-
 .container {
   position:relative;
 }
 
 .anchor {
   position:absolute;
-  top:-65px; /* given the fixed header is 50px tall, and you want 15px padding */
-  left:0px;
+  top:-4em; /* given the fixed header is 50px tall, and you want 15px padding */
 }
+
+
+/* --- large screens --- */
+
+@media screen and (min-width: 960px){
+    .navbar_anchor {
+        padding-top: 58px;
+        margin-top: -58px;
+    }
+
+    .anchor {
+      top:-8em;
+    }
+}
+/* --- */
