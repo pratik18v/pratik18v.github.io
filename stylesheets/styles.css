@@ -293,6 +293,11 @@ footer {
   cursor:pointer;
 }
 
+.clickable:hover {
+  background:silver;
+  color:black;
+}
+
 .contact {
   background-color:whitesmoke;
   border-radius:5px;
