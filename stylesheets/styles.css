@@ -1,14 +1,14 @@
 body {
-  background-color: #fff;
+  background-color:#fff;
   padding:50px;
-  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font:14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
   font-weight:400;
 }
 
 p, li {
-  text-align: justify;
-  text-justify: inter-word;
+  text-align:justify;
+  text-justify:inter-word;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,17 +26,17 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
-  font-weight: 500;
+  font-weight:500;
 }
 
 h2 {
   color:#393939;
-  font-weight: 500;
+  font-weight:500;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
-  font-weight: 500;
+  font-weight:500;
 }
 
 a {
@@ -78,10 +78,10 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background:#f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
-  overflow-x: auto;
+  overflow-x:auto;
 }
 
 table {
@@ -282,12 +282,14 @@ footer {
   border-color:black;
   border-radius:5px;
   color:black;
-  padding:0px 1px;
+  padding-left:1px;
+  padding-right:1px;
   text-align:center;
   text-decoration:none;
   display:inline-block;
   font-size:12px;
-  margin:0px 2px;
+  margin-left:2px;
+  margin-right:0px;
   cursor:pointer;
 }
 
@@ -295,46 +297,49 @@ footer {
   background-color:whitesmoke;
   border-radius:5px;
   color:black;
-  padding:0px 0px;
   text-align:left;
   text-decoration:none;
   display:inline-block;
   font-size:16px;
-  margin:4px 0px;
+  margin-top:4px;
+  margin-bottom:4px;
   cursor:pointer;
-  width: 10em;
+  width:10em;
 }
 
 .contact:hover {
-  background: #39c;
-  color: black;
+  background:#39c;
+  color:black;
 }
 
 
 /* The navigation bar */
 .navbar {
-  overflow: hidden;
-  background-color: whitesmoke;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 45em; /* Full width */
-  z-index: 1000;
+  overflow:hidden;
+  background-color:whitesmoke;
+  position:fixed; /* Set the navbar to fixed position */
+  top:0; /* Position the navbar at the top of the page */
+  width:45em; /* Full width */
+  z-index:1000;
 }
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  float:left;
+  display:block;
+  color:black;
+  text-align:center;
+  padding-top:14px;
+  padding-bottom:14px;
+  padding-right:16px;
+  padding-left:16px;
+  text-decoration:none;
 }
 
 /* Change background on mouse-over */
 .navbar a:hover {
-  background: #39c;
-  color: black;
+  background:#39c;
+  color:black;
 }
 
 /*.main {*/
@@ -342,11 +347,11 @@ footer {
 /*}*/
 
 .container {
-  position: relative;
+  position:relative;
 }
 
 .anchor {
-  position: absolute;
-  top: -65px; /* given the fixed header is 50px tall, and you want 15px padding */
-  left: 0px;
+  position:absolute;
+  top:-65px; /* given the fixed header is 50px tall, and you want 15px padding */
+  left:0px;
 }
