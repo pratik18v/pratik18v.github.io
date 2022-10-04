@@ -217,7 +217,8 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+    border-style:solid;
+    border-color:#e5e5e5;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
@@ -288,4 +289,64 @@ footer {
   font-size:12px;
   margin:0px 2px;
   cursor:pointer;
+}
+
+.contact {
+  background-color:whitesmoke;
+  border-radius:5px;
+  color:black;
+  padding:0px 0px;
+  text-align:left;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+  margin:4px 0px;
+  cursor:pointer;
+  width: 10em;
+}
+
+.contact:hover {
+  background: #39c;
+  color: black;
+}
+
+
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: whitesmoke;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 45em; /* Full width */
+  z-index: 1000;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #39c;
+  color: black;
+}
+
+/*.main {*/
+/*  margin: 20px*/
+/*}*/
+
+.container {
+  position: relative;
+}
+
+.anchor {
+  position: absolute;
+  top: -65px; /* given the fixed header is 50px tall, and you want 15px padding */
+  left: 0px;
 }

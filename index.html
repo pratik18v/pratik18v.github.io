@@ -26,33 +26,48 @@
         <div><img src="assets/self.jpg" alt="Pratik Vaishnavi" height="225"></div>
         <br>
         <div>
-          <span style="font-size:1.5em;color:black;font-weight:bold">Contact:</span><br>
-          <a href="mailto:pratik18v@gmail.com"><img src="assets/mail-ios.svg" alt="E-mail" height="30" hspace="7" vspace="4"><span style="font-size:1.25em;vertical-align:0.7em;color:black">Mail</span></a><br>
-          <a href="https://scholar.google.com/citations?user=OUrkfK4AAAAJ&hl=en"><img src="assets/google-scholar.svg" alt="Google Scholar" height="30" hspace="7" vspace="4"><span style="font-size:1.25em;vertical-align:0.7em;color:black">Google Scholar</span></a><br>
-          <a href="https://www.github.com/pratik18v"><img src="assets/github-icon-1.svg" alt="GitHub" height="30" hspace="7" vspace="4"><span style="font-size:1.25em;vertical-align:0.7em;color:black">GitHub</span></a><br>
-          <a href="https://www.linkedin.com/in/pratik-vaishnavi-aa2585b3/"><img src="assets/linkedin-icon-2.svg" alt="LinkedIn" height="30" hspace="7" vspace="4"><span style="font-size:1.25em;vertical-align:0.7em;color:black">LinkedIn</span></a><br>
+          <span style="font-size:1.5em;color:black;font-weight:bold">Contact</span><br>
+          <a class="contact" href="mailto:pratik18v@gmail.com"><img src="assets/mail-ios.svg" alt="E-mail" height="30" align="top" hspace="5px" vspace="5px"><span style="vertical-align:-0.5em">E-Mail</span></a>
+          <a class="contact" href="https://scholar.google.com/citations?user=OUrkfK4AAAAJ&hl=en"><img src="assets/google-scholar.svg" alt="Google Scholar" height="30" align="top" hspace="5px" vspace="5px"><span style="vertical-align:-0.5em">Google Scholar</span></a>
+          <a class="contact" href="https://www.github.com/pratik18v"><img src="assets/github-icon-1.svg" alt="GitHub" height="30" align="top" hspace="5px" vspace="5px"><span style="vertical-align:-0.5em">GitHub</span></a>
+          <a class="contact" href="https://www.linkedin.com/in/pratik-vaishnavi-aa2585b3/"><img src="assets/linkedin-icon-2.svg" alt="LinkedIn" height="30" align="top" hspace="5px" vspace="5px"><span style="vertical-align:-0.5em">LinkedIn</span></a>
         </div>
       </header>
       <section>
-        <h2><a href="#bio">Bio</a> | <a href="#news">News</a> | <a href="#pubs">Publications</a> | <a href="assets/CV.pdf">Resume</a></h2>
-        <h2 id="bio">About Me</h2>
+        <div class="navbar">
+          <a href="#bio">Bio</a>
+          <a href="#news">News</a>
+          <a href="#pubs">Publications</a>
+          <a href="assets/CV.pdf">Resume</a>
+        </div>
+        <div class="container">
+          <h2 class="title">About Me</h2>
+          <a class="anchor" name="bio"></a>
+        </div>
+
         <div>
           <p> Welcome to my homepage! My name is Pratik and I am a <b>PhD Candidate</b> at the Computer Science Department at <a href="https://www.stonybrook.edu">Stony Brook University</a>. I am a member of the Ethos Security and Privacy Lab directed by <a href="https://amir.rahmati.com">Amir Rahmati</a>.</p>
           <p> My research focuses on <b>making reliable and fair machine learning accessible to all!</b> Towards this effort, I am currently working on developing efficient methods for training certifiably/provably robust neural networks. This research is being conducted in collaboration with <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-kheykholt">Kevin Eykholt</a> of IBM Research.</p>
-          <p> During my PhD studies, I had the opportunity to contribute towards the developement of a <a href="https://one.amazon.com">robust biometric system</a> as an <b>Applied Scientist Intern at Amazon</b> (Summer '20 & '21). Prior to joining the PhD program, I received a <b>MS in Computer Science degree</b> in 2018 from Stony Brook University. My MS Thesis was on generating temporal action proposals in long untrimmed videos. I received my <b>Bachelors degree in Electronics Engineering</b> in 2016 from <a href="https://www.svnit.ac.in">Sardar Vallabhbhai National Institute of Technology, Surat, India</a>.</p>
+          <p> During my PhD studies, I had the opportunity to contribute towards the developement of a <a href="https://one.amazon.com">robust biometric system</a> as an <b>Applied Scientist Intern at Amazon</b> (Summer "20 & '21). Prior to joining the PhD program, I received a <b>MS in Computer Science degree</b> in 2018 from Stony Brook University. My MS Thesis was on generating temporal action proposals in long untrimmed videos. I received my <b>Bachelors degree in Electronics Engineering</b> in 2016 from <a href="https://www.svnit.ac.in">Sardar Vallabhbhai National Institute of Technology, Surat, India</a>.</p>
           <p> When I am not working, I like to read, kayak and play video games!</p>
         </div>
         <hr>
-        <h2 id="news">Recent News</h2>
+        <div class="container">
+          <h2 class="title">Recent News</h2>
+          <a class="anchor" name="news"></a>
+        </div>
         <ul>
           <li>Sept '22: Our paper on accelerating the process of training certifiably robust neural networks was accepted at NeurIPS 2022!</li>
           <li>Sept '22: My advisor Amir Rahmati wins the <a href="https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-meta-towards-trustworthy-products-in-ar-vr-and-smart-devices-and-security-research-requests-for-proposals/">Meta Towards Trustworthy Products in AR, VR, and Smart Devices and Security Research grant</a>!</li>
           <li>Aug' 22: Will be presenting our paper on accelerating adversarial training at USENIX Security 2022 in Boston, MA.</li>
-          <li>May '22: My collaborator <a href="https://f4str.github.io/">Farhan Ahmed</a> will be virtually presenting the system we developed for efficiently evaluating robutness of machine learning systems at IEEE S&P 2022.</li>
+          <li>May '22: My collaborator <a href="https://f4str.github.io/">Farhan Ahmed</a> will be virtually presenting the system we developed for efficiently evaluating robutness of ML systems at IEEE S&P 2022.</li>
           <li>Mar '22: Will be serving as a reviewer for ECCV 2022 and NeurIPS 2022.</li>
         </ul>
         <hr>
-        <h2 id="pubs">Publications</h2>
+        <div class="container">
+          <h2 class="title">Publications</h2>
+          <a class="anchor" name="pubs"></a>
+        </div>
         <ul>
           <li>
             <p>
@@ -106,6 +121,7 @@
 <!--          <small>Icons by <a href="https://worldvectorlogo.com">Worldvectorlogo</a></small>-->
         </p>
       </section>
+
 <!--      <footer>-->
 <!--        <p>-->
 <!--          <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>-->
