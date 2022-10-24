@@ -60,7 +60,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:950px;
   margin:0 auto;
 }
 
@@ -175,7 +175,7 @@ header ul a strong {
 }
 
 section {
-  width:625px;
+  width:700px;
   float:right;
   padding-bottom:50px;
 }
@@ -279,25 +279,25 @@ footer {
 
 /*Added by me*/
 .clickable {
-  background-color:white;
+  background-color:ghostwhite;
   border-width:2px;
   border-style:solid;
   border-color:black;
   border-radius:5px;
   color:black;
-  padding-left:1px;
-  padding-right:1px;
+  padding-left:2px;
+  padding-right:2px;
   text-align:center;
   text-decoration:none;
   display:inline-block;
   font-size:12px;
   margin-left:2px;
-  margin-right:0px;
+  margin-right:2px;
   cursor:pointer;
 }
 
 .clickable:hover {
-  background:lightgray;
+  background:#39c;
   color:black;
 }
 
